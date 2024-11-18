@@ -623,4 +623,15 @@ https://live.digiteka.com/1/WGQ1NnhEN0lzM0NU/dk1EOHhw/hls/live/playlist.m3u8
 https://live.digiteka.com/1/Zks2L0VsM2V0T242/QTBqcFly/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="XilamTV.fr",XilamTV (1080p)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="France.2.fr" group-title="France 🇫🇷" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France2.webp",France 2 🇫🇷 
+http://51.178.65.238/France2/index.m3u8
+#EXTINF:-1 tvg-id="France.3.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 3" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France%203.webp",France 3 🇫🇷
+http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202466
+#EXTINF:-1 tvg-id="France.4.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/France4-2011.svg.png",France 4 🇫🇷 
+http://onrev.xyz:80/live/SPIDER_NjKqYj/UrdiVGcB5A/202467.ts
+#EXTINF:-1 tvg-id="France.5.fr" tvg-name="" group-title="France 🇫🇷" tvg-name="France 5" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/France5.webp",France 5 🇫🇷 
+http://onrev.xyz:80/SPIDER_NjKqYj/UrdiVGcB5A/202468
+#EXTINF:-1 tvg-name="" tvg-id="UK:.France.24.FAST.English.en" group-title="News & Opinion ⛈️📰" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1100002WX_20230823T033133SQUARE.png_20230823033134.png",France 24 Fast 🇫🇷
+https://is.gd/Bv1wiz?France24Fast.m3u8
+#EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="" group-title="Sports ⚽️" tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",Sport en France 🇫🇷 
+https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8
